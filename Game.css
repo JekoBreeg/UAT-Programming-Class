@@ -1,0 +1,37 @@
+#shoe {
+    background-color: royalblue;
+    color:goldenrod;
+    height: 100px;
+    box-shadow: inset;
+}
+
+#cockroach{
+    background-color: brown;
+    color: black;
+    box-shadow: inset;
+}
+
+#nuclearbomb{
+    background-color: orangered;
+    color: yellow;
+    border-style: double;
+    box-shadow: inset;
+    box-sizing: border-box;
+}
+h1 {
+    color: rebeccapurple;
+}
+h2 {
+    color: rgba(205, 5, 5, 0.874);
+}
+h3 {
+    color: cornsilk;
+}
+body {
+    background-color: rgba(9, 175, 9, 0.808);
+}
+p {
+    color: azure;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
